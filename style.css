@@ -1,0 +1,148 @@
+section{
+    height: 600px;
+    margin-bottom: 30px;
+}
+
+h1{font-size: 35px;}
+
+p{
+    color: dimgray;
+}
+
+/* Top Section Start Here */
+.Crimson{
+    color: crimson;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.half-width{
+   /* border: 5px solid; */
+    width: 30%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 3%;
+    margin-top: 30px;
+
+}
+
+.half-width img{ 
+    width: 90%;
+}
+
+.link{
+    text-decoration: none;
+    /* background-color: crimson; */
+    padding: 8px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, crimson,tomato);
+
+}
+
+.top-section{
+    background-image: url("Background\ File/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+.top-1{
+    position: relative;
+    top:80px;
+}
+
+/* Top Section End Here */
+
+/* Biography Section Start Here */
+.bottom{
+    position: relative;
+    top: 90px;
+}
+
+.Biography-section{
+    background-image: url("Background\ File/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* Biography Section End Here */
+
+/* Work Section Start Here */
+
+.center{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.work-1{
+    background-color: coral;
+    width: 320px;
+    height: 250px;
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.work-1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.work{
+    position: relative;
+    left: 140px;
+}
+
+.work-section{
+    background-image: url("Background\ File/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+/* Work Section End Here */
+.last-1{
+    
+    width: 500px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+}
+
+.last-font{
+    font-size: 9px;
+    color: darkgrey;
+}
+
+.center-1{
+    text-align: center;
+}
+
+
+.last-2{
+    background-color: deeppink;
+    width: 400px;
+    position: relative;
+    left: 300px;
+    padding: 30px 120px;
+    border-radius: 5px;
+    margin-top: 110px;
+
+}
+
+.center-2{
+    text-align: center;
+    color: white;
+    
+    
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+    color: darkgray;
+}
+
+.last-section{
+    background-image: url("Background\ File/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+/* Last Section End Here */
